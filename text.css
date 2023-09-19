@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    color: rgb(245, 240, 240);
+    text-shadow: 1px 1px 1px #000000;
+
+}
+
+.spi {
+    position: absolute;
+    left: 50px;
+
+}
+
+.spi1 {
+    position: absolute;
+    left: 50px;
+    top: 23%;
+}
